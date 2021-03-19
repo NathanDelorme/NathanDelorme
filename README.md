@@ -1,16 +1,16 @@
-### Hi there 👋
+## Who am I ?
 
-<!--
-**NathanDelorme/NathanDelorme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Nathan and I am passionate about IT. Currently I live in France.
+I am very interested by learning new things and improving what already exists.
 
-Here are some ideas to get you started:
+I started computer science as a self-taught student, then from 2019 to 2020 I did a year at [Epita Rennes](https://www.epita.fr/). However, I changed my path to integrate the [IUT](https://www.uvsq.fr/dut-informatique-info) (Technological University Institute) of [Velizy](https://www.google.com/maps/place/78140+V%C3%A9lizy-Villacoublay/data=!4m2!3m1!1s0x47e67be48118a7f9:0x40b82c3688c3650?sa=X&ved=2ahUKEwjaw_Cv67vvAhVIxoUKHcmsDIcQ8gEwJXoECDwQAQ) (France) which has a curriculum in computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+
+* ✉️ - [Email](mailto:nathandelorme2001@gmail.com)
+
+## Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDelorme&theme=auto" alt="Nathan Delorme language usage stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDelorme&show_icons=true&theme=default&line_height=27" alt="Nathan Delorme github stats" />

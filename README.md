@@ -1,9 +1,10 @@
 ## Who am I ?
 
-Hi, my name is Nathan and I am passionate about IT. I am currently living in France.
-I am very interested in learning new things and improving what already exists.
+Hi,
+I'm Nathan and I'm passionated in Computer Science. I'm currently living in France.
+I'm interested in acquiring new skills as well as improving what already exists.
 
-I started computer science as a self-taught student, then from 2019 to 2020 I did a year at [Epita Rennes](https://www.epita.fr/). However, I changed my path to integrate the [IUT](https://www.uvsq.fr/dut-informatique-info) (Technological University Institute) of [Velizy](https://www.google.com/maps/place/78140+V%C3%A9lizy-Villacoublay/data=!4m2!3m1!1s0x47e67be48118a7f9:0x40b82c3688c3650?sa=X&ved=2ahUKEwjaw_Cv67vvAhVIxoUKHcmsDIcQ8gEwJXoECDwQAQ) (France) which has a curriculum in computer science.
+I started learning Computer Science on my own, then I study for a year (2019-2020) at [Epita Rennes](https://www.epita.fr/). Eventually, I integrated the [IUT](https://www.uvsq.fr/dut-informatique-info) (University Institute of Technology) at [Velizy](https://www.google.com/maps/place/78140+V%C3%A9lizy-Villacoublay/data=!4m2!3m1!1s0x47e67be48118a7f9:0x40b82c3688c3650?sa=X&ved=2ahUKEwjaw_Cv67vvAhVIxoUKHcmsDIcQ8gEwJXoECDwQAQ) (France) specialized in Computer Science.
 
 ## Contact me
 

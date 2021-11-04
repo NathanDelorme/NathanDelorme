@@ -8,7 +8,7 @@ I started learning Computer Sciences on my own, then I've studed for a year (201
 
 ## Contact me
 
-* ✉️ - [Email](mailto:nathandelorme2001@gmail.com)
+* ✉️ - [Email](mailto:nathandelorme.pro@gmail.com)
 
 ## Stats
 
